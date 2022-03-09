@@ -21,6 +21,5 @@ No Activity Tracked This Week
 ```
 
 
-
 <!--END_SECTION:waka-->
 <img src='images/footer.png'>
