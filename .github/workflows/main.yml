@@ -18,4 +18,5 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LANGUAGE: "True"
+          SHOW_TIMEZONE: "False"
 
