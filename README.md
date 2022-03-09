@@ -18,7 +18,7 @@
 
 - MetaMask Wallet: 0xDF4A0Ca65CEC1ef44cD532dFF6f5B35A062253EB
 
-<h3>Or use some of my referal codes:</h3>
+<h3>Or use some of my referal links:</h3>
 
 - Honeygain: https://r.honeygain.me/CAUAPEF190
 - Binance: https://accounts.binance.com/pt-BR/register?ref=185595709
