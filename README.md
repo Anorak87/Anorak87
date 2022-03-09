@@ -9,7 +9,9 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 <!--START_SECTION:waka-->
-**This Week Time:** 
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -19,6 +21,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
+
+
 <!--END_SECTION:waka-->
 <img src='footer.png'>
 
