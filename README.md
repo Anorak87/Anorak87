@@ -4,10 +4,27 @@
 <img  align="right" src='images/skills.png'>
 <br><br><br><br><br><br><br><br><br><br>
 <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Anorak87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=fbf2a2&border_color=7a3f13&icon_color=7a3f13&title_color=934b1b&text_color=edae3e'>
+<div float="left">
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+    <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>
+    <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'>
+    <img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white'>
+<div>
 <br>
-<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
-<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>
-<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'>
-<img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white'>
-<img src='images/footer.png'>
+<details>
+<summary>Wanna help me?</summary>
+<br>
+<h3>You can donate:</h3>
 
+- MetaMask Wallet: 0xDF4A0Ca65CEC1ef44cD532dFF6f5B35A062253EB
+
+<h3>Or use some of my referal codes:</h3>
+
+- Honeygain: https://r.honeygain.me/CAUAPEF190
+- Binance: https://accounts.binance.com/pt-BR/register?ref=185595709
+- Presearch: https://presearch.org/signup?rid=2583909
+- Cudo Miner: https://www.cudominer.com/?a=gDpw3gBB-
+
+
+</details>
+<img src='images/footer.png'>
