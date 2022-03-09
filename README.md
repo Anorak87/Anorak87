@@ -9,5 +9,17 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 <img src='footer.png'>
