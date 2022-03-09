@@ -24,7 +24,7 @@
 - Binance: https://accounts.binance.com/pt-BR/register?ref=185595709
 - Presearch: https://presearch.org/signup?rid=2583909
 - Cudo Miner: https://www.cudominer.com/?a=gDpw3gBB-
-
-
 </details>
+<br>
+Made with :heart: , <a href="https://discordapp.com/users/633433740214796317">GitHub Readme Stats</a> and free images found over the web
 <img src='images/footer.png'>
