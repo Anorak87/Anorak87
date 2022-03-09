@@ -5,13 +5,10 @@
  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Anorak87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <img  align="right" src='skils.png'>
-
-<img src='footer.png'>
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+<br><br><br><br><br><br><br><br><br><br>
+**This Week Time:** 
 
 ```text
 💬 Programming Languages: 
@@ -21,6 +18,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-
-
 <!--END_SECTION:waka-->
+<img src='footer.png'>
+
+
